@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @idealre
+- 👋 Hi, I’m @idealre, a full stack developer
 - 👀 I’m interested in Javascript
 - 🌱 I’m currently learning Rust
