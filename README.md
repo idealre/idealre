@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @idealre, a full stack developer girl.
 - 👀 I’m interested in Javascript ecosystem.
 - 🌱 I’m currently learning Rust and other interesting technology.
-- 🐷 I love dancing and swimming, it helps me maintain a healthy body.
