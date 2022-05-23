@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @idealre, a full stack developer girl.
-- 👀 I’m interested in Javascript ecosystem.
-- 🌱 I’m currently learning Rust and other interesting technology.
+- 👋 Hi, I’m @idealre.
